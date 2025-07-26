@@ -1,0 +1,475 @@
+[
+  {
+    "name": "ACE-S-COMP-GUI",
+    "author": "mmmACEmmm",
+    "version": "1.2.3",
+    "git_path": "mmmACEmmm/ACE-S-COMP-GUI",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/mmmACEmmm/ACE-S-COMP-GUI/releases/latest/download/ACE.S.COMP.GUI.dll"
+  },
+  {
+    "name": "DataTrackerAdvanced",
+    "author": "mmmACEmmm",
+    "version": "1.33",
+    "git_path": "mmmACEmmm/DataTrackerAdvanced",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/mmmACEmmm/DataTrackerAdvanced/releases/latest/download/DataLoggerAdvanced.dll"
+  },
+  {
+    "name": "Ace's Re-Texture",
+    "author": "mmmACEmmm",
+    "version": "1.0",
+    "git_path": "mmmACEmmm/Ace-s-Re-Texture",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/mmmACEmmm/Ace-s-Re-Texture/releases/latest/download/Ace.s.Re-Texture.dll"
+  },
+  {
+    "name": "iis.Stupid.Menu",
+    "author": "iiDk-the-actual",
+    "version": "6.8.0",
+    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest/download/iis_Stupid_Menu.dll"
+  },
+  {
+    "name": "GorillaShirts",
+    "author": "Dev",
+    "version": "1.2.1",
+    "git_path": "developer9998/GorillaShirts",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
+  },
+  {
+    "name": "GorillaFriends",
+    "author": "RusJJ/Not A Bird/DEV",
+    "version": "1.2.3",
+    "git_path": "developer9998/GorillaFriends",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/GorillaFriends/releases/latest/download/GorillaFriends.dll"
+  },
+  {
+    "name": "Utilla",
+    "author": "Various(check page)",
+    "version": "1.6.19",
+    "git_path": "developer9998/Utilla",
+    "group": "Core",
+    "download_url": "https://github.com/developer9998/Utilla/releases/latest/download/Utilla.dll"
+  },
+  {
+    "name": "BetterMirror",
+    "author": "Graze",
+    "version": "3.2",
+    "git_path": "The-Graze/BetterMirror",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/BetterMirror/releases/latest/download/BetterMirror.dll"
+  },
+  {
+    "name": "Blink2",
+    "author": "Graze",
+    "version": "1.0.3",
+    "git_path": "The-Graze/Blink2",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/Blink2/releases/latest/download/Blink2.dll"
+  },
+  {
+    "name": "BringBackBugBabies",
+    "author": "Not A Bird",
+    "version": "1.0.0",
+    "git_path": "Not-A-Bird-07/BringBackBugBabies",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/Not-A-Bird-07/BringBackBugBabies/releases/latest/download/BringBackBugBabies.dll"
+  },
+  {
+    "name": "Computer Backgrounds",
+    "author": "Striker-67",
+    "version": "1.0.5",
+    "git_path": "Striker-67/computer-backgrounds",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/Striker-67/computer-backgrounds/releases/latest/download/ComputerBackgrounds.dll"
+  },
+  {
+    "name": "GorillaAvatarCatalog",
+    "author": "Dev",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaAvatarCatalog",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaAvatarCatalog/releases/latest/download/GorillaAvatarCatalog.dll"
+  },
+  {
+    "name": "GorillaHomes",
+    "author": "wryser",
+    "version": "2.0.0",
+    "install_location": "BepInEx/plugins",
+    "git_path": "wryser/Gorilla-Homes",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/wryser/Gorilla-Homes/releases/latest/download/GorillaHomes.zip"
+  },
+  {
+    "name": "GorillaPronouns-BASE",
+    "author": "Dev",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaPronouns",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaPronouns/releases/latest/download/GorillaPronouns.dll"
+  },
+  {
+    "name": "GorillaPronouns-CI",
+    "author": "Dev",
+    "version": "1.0.0",
+    "dependencies": [
+      "GorillaPronouns-BASE",
+      "ComputerInterface"
+    ],
+    "git_path": "developer9998/GorillaPronouns",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaPronouns/releases/latest/download/GorillaPronouns.ComputerInterface.dll"
+  },
+  {
+    "name": "GorillaPronouns-InfoWatch",
+    "author": "Dev",
+    "version": "1.0.0",
+    "dependencies": [
+      "GorillaPronouns-BASE"
+    ],
+    "git_path": "developer9998/GorillaPronouns",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaPronouns/releases/latest/download/GorillaPronouns.InfoWatch.dll"
+  },
+  {
+    "name": "GorillaShirts",
+    "author": "Dev",
+    "version": "1.2.1",
+    "git_path": "developer9998/GorillaShirts",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
+  },
+  {
+    "name": "GorillaGhostVision",
+    "author": "Dev",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaPronouns",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaGhostVision/releases/latest/download/GorillaGhostVision.dll"
+  },
+  {
+    "name": "Leaderboard Colors",
+    "author": "Striker-67",
+    "version": "1.0.8",
+    "git_path": "Striker-67/leaderboard-colors",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/Striker-67/leaderboard-colors/releases/latest/download/LeaderboardColors.dll"
+  },
+  {
+    "name": "MonkeSky-PC",
+    "author": "Graze",
+    "version": "2.3.0",
+    "git_path": "The-Graze/MonkeSky-PC",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/MonkeSky-PC/releases/latest/download/MonkeSky-PC.dll"
+  },
+  {
+    "name": "LivSkins",
+    "author": "Graze",
+    "version": "2.0.0",
+    "install_location": "BepInEx/plugins",
+    "git_path": "The-Graze/LivSkins",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/LivSkins/releases/latest/download/LivSkins.zip"
+  },
+  {
+    "name": "OldHoldables",
+    "author": "gizmogoat",
+    "version": "2.4.3",
+    "git_path": "gizmogoat/OldHoldables",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/gizmogoat/OldHoldables/releases/latest/download/OldHoldables.dll"
+  },
+  {
+    "name": "phosphorite",
+    "author": "BrokenStone",
+    "version": "0.0.1",
+    "git_path": "BrokenSt0ne/phosphorite",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BrokenSt0ne/phosphorite/releases/latest/download/phosphorite.zip"
+  },
+  {
+    "name": "BepInEx",
+    "author": "BepInEx Team",
+    "version": "5.4.23.3",
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.3/BepInEx_win_x64_5.4.23.3.zip"
+  },
+  {
+    "name": "HideCityBundleStand",
+    "author": "Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/HideCityBundleStand",
+    "group": "Core",
+    "download_url": "https://github.com/The-Graze/HideCityBundleStand/releases/latest/download/HideCityBundleStand.dll"
+  },
+  {
+    "name": "Utilla",
+    "author": "Various(check page)",
+    "version": "1.6.19",
+    "git_path": "developer9998/Utilla",
+    "group": "Core",
+    "download_url": "https://github.com/developer9998/Utilla/releases/latest/download/Utilla.dll"
+  },
+  {
+    "name": "AnalogTurn",
+    "author": "Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/AnalogTurn",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/AnalogTurn/releases/latest/download/AnalogTurn.dll"
+  },
+  {
+    "name": "AnalogTurn-CI",
+    "author": "Graze",
+    "version": "1.0.0",
+    "dependencies": [
+      "ComputerInterface"
+    ],
+    "git_path": "The-Graze/AnalogTurn",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/AnalogTurn/releases/latest/download/AnalogTurn-CI.dll"
+  },
+  {
+    "name": "AnalogTurn-GC",
+    "author": "Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/AnalogTurn-GC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/AnalogTurn-GC/releases/latest/download/AnalogTurn-GC.dll"
+  },
+  {
+    "name": "BananaOS",
+    "author": "Husky",
+    "version": "1.1.0",
+    "git_path": "HuskyGT/Banana-OS",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/latest/download/BananaOS.dll"
+  },
+  {
+    "name": "GorillaFriends",
+    "author": "RusJJ/Not A Bird/DEV",
+    "version": "1.2.3",
+    "git_path": "developer9998/GorillaFriends",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/GorillaFriends/releases/latest/download/GorillaFriends.dll"
+  },
+  {
+    "name": "Grate",
+    "author": "Graze",
+    "version": "1.8.3",
+    "git_path": "The-Graze/Grate",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/Grate/releases/latest/download/Grate.dll"
+  },
+  {
+    "name": "Index",
+    "author": "zaynethedev",
+    "version": "1.0.8",
+    "install_location": "BepInEx/plugins",
+    "git_path": "zaynethedev/Index",
+    "group": "Gameplay",
+    "download_url": "https://github.com/zaynethedev/Index/releases/latest/download/Index-1_0_8.zip"
+  },
+  {
+    "name": "MarioMonkeMadness (Requires ROM)",
+    "author": "gizmogoat",
+    "version": "0.1.1",
+    "git_path": "gizmogoat/MarioMonkeMadness",
+    "group": "Gameplay",
+    "download_url": "https://github.com/gizmogoat/MarioMonkeMadness/releases/latest/download/MarioMonkeMadness-011.zip"
+  },
+  {
+    "name": "Mono-Sandbox-Mod",
+    "author": "developer9998/zaynethedev",
+    "version": "1.2.2",
+    "git_path": "developer9998/Mono-Sandbox-Mod",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/Mono-Sandbox-Mod/releases/latest/download/MonoSandbox.dll"
+  },
+  {
+    "name": "NoMoreWind",
+    "author": "defaultuser0/Dev",
+    "version": "1.3.0",
+    "git_path": "defaultuser0-nerd/NoMoreWind",
+    "group": "Gameplay",
+    "download_url": "https://github.com/defaultuser0-nerd/NoMoreWind/releases/latest/download/NoMoreWind.dll"
+  },
+  {
+    "name": "WhoIsTalking",
+    "author": "Graze",
+    "version": "5.2.1",
+    "git_path": "The-Graze/WhoIsTalking",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/WhoIsTalking/releases/latest/download/WhoIsTalking.dll"
+  },
+  {
+    "name": "WhoIsThatMonke",
+    "author": "HanSolo1000Falcon",
+    "version": "1.0.4",
+    "dependencies": [
+      "WhoIsTalking"
+    ],
+    "git_path": "HanSolo1000Falcon/WhoIsThatMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HanSolo1000Falcon/WhoIsThatMonke/releases/latest/download/WhoIsThatMonke.dll"
+  },
+  {
+    "name": "Bepinject",
+    "author": "Auros",
+    "version": "1.0.1",
+    "dependencies": [
+      "Extenject"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Bepinject-Auros.zip"
+  },
+  {
+    "name": "Extenject",
+    "author": "svermeulen",
+    "version": "1.0.1",
+    "dependencies": [
+      "Bepinject"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Extenject.zip"
+  },
+  {
+    "name": "HoneyLib",
+    "author": "BzzzThe18th",
+    "version": "1.1.2",
+    "git_path": "BzzzThe18th/HoneyLib",
+    "group": "Libraries",
+    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
+  },
+  {
+    "name": "BetterComputerCommands",
+    "author": "kinomonke",
+    "version": "1.0.2",
+    "dependencies": [
+      "ComputerInterface"
+    ],
+    "git_path": "kinomonke/BetterComputerCommands",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/kinomonke/BetterComputerCommands/releases/latest/download/BetterComputerCommands.dll"
+  },
+  {
+    "name": "ComputerInterface",
+    "author": "Various(check page)",
+    "version": " IMMEDIATE 1.7.8",
+    "install_location": "BepInEx/plugins",
+    "dependencies": [
+      "Bepinject"
+    ],
+    "git_path": "DecalFree/GorillaInterface",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/DecalFree/GorillaInterface/releases/latest/download/ComputerInterface.zip"
+  },
+  {
+    "name": "FuckOffMonkeySounds",
+    "author": "gizmogoat",
+    "version": "1.1.0",
+    "git_path": "gizmogoat/FuckOffMonkeySounds",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/gizmogoat/FuckOffMonkeySounds/releases/latest/download/FuckOffMonkeySoundsBIE.dll"
+  },
+  {
+    "name": "Gorilla Discord RPC",
+    "author": "Chin",
+    "version": "1.0.0",
+    "install_location": "BepInEx/plugins",
+    "git_path": "Chin0303/Gorilla-Discord-RPC",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Chin0303/Gorilla-Discord-RPC/releases/latest/download/GorillaTag.Discord.RPC.zip"
+  },
+  {
+    "name": "GorillaEarmuffs",
+    "author": "gizmogoat",
+    "version": "1.0.0",
+    "git_path": "gizmogoat/GorillaEarmuffs",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/gizmogoat/GorillaEarmuffs/releases/latest/download/GorillaEarmuffs.dll"
+  },
+  {
+    "name": "GorillaSteps",
+    "author": "bjrsinge",
+    "version": "1.1.9",
+    "git_path": "bjrsinge/GorillaSteps",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/bjrsinge/GorillaSteps/releases/latest/download/GorillaSteps.dll"
+  },
+  {
+    "name": "GorillaXS",
+    "author": "gizmogoat",
+    "version": "1.2.1",
+    "git_path": "gizmogoat/GorillaXS",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/gizmogoat/GorillaXS/releases/latest/download/GorillaXS.dll"
+  },
+  {
+    "name": "GorillaXS Basics",
+    "author": "gizmogoat",
+    "version": "1.1.0",
+    "git_path": "gizmogoat/GorillaXS.Basics",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/gizmogoat/GorillaXS.Basics/releases/latest/download/GorillaXS.Basics.dll"
+  },
+  {
+    "name": "JsonPrefs",
+    "author": "Not-A-Bird-07",
+    "version": "1.0.0",
+    "install_location": "BepInEx/plugins",
+    "git_path": "Not-A-Bird-07/JsonPrefs",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Not-A-Bird-07/JsonPrefs/releases/latest/download/JsonPrefs.dll"
+  },
+  {
+    "name": "MusicControls",
+    "author": "Graze",
+    "version": "1.0.2",
+    "git_path": "The-Graze/MusicControls",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/MusicControls/releases/latest/download/MusicControls.dll"
+  },
+  {
+    "name": "AreYouBored",
+    "author": "Ngbatz",
+    "version": "1.0.0",
+    "git_path": "NgbatzYT/AreYouBored",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/NgbatzYT/AreYouBored/releases/latest/download/AreYouBored.dll"
+  },
+  {
+    "name": "OculusReportMenu",
+    "author": "SirKingBinx",
+    "version": "2.1.0",
+    "git_path": "sirkingbinx/OculusReportMenu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.dll"
+  },
+  {
+    "name": "TpHome",
+    "author": "RushKiller",
+    "version": "1.4",
+    "git_path": "RushKiller001/TpHome",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/RushKiller001/TpHome/releases/latest/download/TpHome.dll"
+  },
+  {
+    "name": "GorillaTimeChanger",
+    "author": "HanSolo1000Falcon",
+    "version": "1.0.0",
+    "git_path": "HanSolo1000Falcon/Gorilla-Time-Changer",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/HanSolo1000Falcon/Gorilla-Time-Changer/releases/latest/download/GorillaTimeChanger.dll"
+  }
+]
